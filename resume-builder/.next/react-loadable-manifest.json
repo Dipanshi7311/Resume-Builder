@@ -1,0 +1,32 @@
+{
+  "..\\..\\node_modules\\next\\dist\\client\\index.js -> ../pages/_app": {
+    "id": "..\\..\\node_modules\\next\\dist\\client\\index.js -> ../pages/_app",
+    "files": [
+      "static/chunks/node_modules_next_dist_pages__app_js.js"
+    ]
+  },
+  "..\\..\\node_modules\\next\\dist\\client\\index.js -> ../pages/_error": {
+    "id": "..\\..\\node_modules\\next\\dist\\client\\index.js -> ../pages/_error",
+    "files": [
+      "static/chunks/node_modules_next_dist_pages__error_js.js"
+    ]
+  },
+  "..\\helpers\\common\\components\\richtext\\index.tsx -> jodit": {
+    "id": "..\\helpers\\common\\components\\richtext\\index.tsx -> jodit",
+    "files": [
+      "static/chunks/node_modules_jodit_build_jodit_min_js.js"
+    ]
+  },
+  "..\\helpers\\constants\\index.ts -> src/templates/modern/MordernTemplate": {
+    "id": "..\\helpers\\constants\\index.ts -> src/templates/modern/MordernTemplate",
+    "files": [
+      "static/chunks/src_templates_modern_MordernTemplate_tsx.js"
+    ]
+  },
+  "..\\helpers\\constants\\index.ts -> src/templates/professional/ProfessionalTemplate": {
+    "id": "..\\helpers\\constants\\index.ts -> src/templates/professional/ProfessionalTemplate",
+    "files": [
+      "static/chunks/src_templates_professional_ProfessionalTemplate_tsx.js"
+    ]
+  }
+}
